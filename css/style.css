@@ -1,0 +1,40 @@
+body {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: hotpink;
+  color: rgb(31, 7, 29);
+  padding: 20px;
+  text-align: center;
+}
+nav {
+  background-color: #723660;
+  padding: 10px;
+  text-align: center;
+}
+
+nav a {
+  color: lightpink;
+  text-decoration: none;
+  margin: 0 15px;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 20px;
+  padding: 15px;
+  border: 1px solid #ccc;
+}
+
+footer {
+  background-color: orchid;
+  color: azure;
+  text-align: center;
+  padding: 15px;
+}
